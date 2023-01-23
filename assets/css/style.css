@@ -1,0 +1,96 @@
+body {
+  font-size: 16px;
+  background-color: #efefef;
+  font-family: "Roboto", sans-serif;
+}
+
+.container {
+  width: 1024px;
+  margin: 0 auto;
+}
+
+section {
+  background-color: white;
+  padding: 60px 30px;
+  border-radius: 20px;
+  margin-top: 50px;
+}
+
+.baseline {
+  font-size: 12px;
+  font-weight: 400px;
+  text-align: center;
+  margin-top: 15px;
+  color: #6c6c6c;
+}
+header {
+  background-color: white;
+  border-bottom: 1px solid #f3735f;
+  height: 80px;
+}
+
+header img {
+  width: 200px;
+  margin-top: 25px;
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: bold;
+  text-align: center;
+  color: #393c6c;
+  margin-top: 30px;
+}
+
+h2 {
+  font-size: 30px;
+  font-weight: bold;
+  color: #f3735f;
+  margin-top: 70px;
+  margin-bottom: 20px;
+}
+
+h3 {
+  font-size: 18px;
+  font-weight: bold;
+  color: #393c6c;
+  line-height: 22px;
+}
+
+.Time {
+  width: 400px;
+  height: 45px;
+  border-radius: 10px;
+  background-color: #78787c;
+  margin: 0 auto;
+}
+.Time p {
+  color: white;
+  line-height: 50px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.images-crepes {
+  padding: 25px;
+}
+.crepes {
+  width: 300px;
+  height: 300px;
+  border-radius: 10px;
+}
+
+li {
+  font-size: 16px;
+  line-height: 22px;
+  color: #6c6c6c;
+}
+p {
+  margin-bottom: 20px;
+  line-height: 20px;
+}
+
+footer {
+  text-align: center;
+  padding: 40px;
+}
